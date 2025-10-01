@@ -1,6 +1,6 @@
 # 🎬 YouTube Shorts to TikTok Auto Uploader
 
-Tự động tải video từ các kênh YouTube Shorts và đăng lên TikTok. Hỗ trợ nhiều tài khoản, proxy và quản lý channel.
+Tự động tải video từ các kênh YouTube Shorts và đăng lên TikTok.
 
 ## ✨ Tính năng chính
 
