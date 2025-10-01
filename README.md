@@ -6,11 +6,8 @@ Tự động tải video từ các kênh YouTube Shorts và đăng lên TikTok.
 
 - 📥 **Tự động tải video** từ các kênh YouTube Shorts
 - 📤 **Đăng tự động lên TikTok** với caption và hashtags
-- 🔐 **Quản lý cookies TikTok** cho nhiều tài khoản
 - 🌐 **Hỗ trợ proxy** để tránh bị chặn IP
 - 📺 **Theo dõi nhiều channel** YouTube Shorts
-- ⏰ **Lên lịch đăng bài** tự động
-- 🔄 **Xử lý hàng loạt** nhiều video cùng lúc
 
 ## ⚙️ Cấu hình
 #### Lấy cookies TikTok:
